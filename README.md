@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhilkurian
 - 👀 I’m interested in Deep Learning for medical image analysis
-- 🌱 I’m currently a senior Ph.D scholar at IIT Bombay
+- 🌱 I’m currently a AI researcher at FRIPL
 - 💞️ I’m looking to collaborate on applying machine learning techiniques to apply in digitial pathologysettings 
 - 📫 You can reach me on nikhilcherian30@gmail.com
 
